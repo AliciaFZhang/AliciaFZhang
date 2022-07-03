@@ -9,8 +9,8 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciafanzhang/) 
 
 ## Portfolio Projects
-- [MacroMacro](https://github.com/MacroMacro/frontend-capstone-wolverines) (Front End)
-- [Atelier Systems Design](https://github.com/Galactic-Republic-2204/SDC-QA) (Back End)
+- [MacroMacro E-commerce](https://github.com/MacroMacro/frontend-capstone-wolverines) (Front End)
+- [Atelier Systems Design](https://github.com/AliciaFZhang/SDC-QA) (Back End)
 - [BetterEats](https://github.com/Better-Eats/Better-Eats) (Full Stack)
 
 ## TECHNICAL SKILLS
