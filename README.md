@@ -18,3 +18,10 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
 - Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development
 - Testing/Deployment: Jest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
 - Developer Tools: Vim | Git | Npm | Webpack | Babel | Nodemon | Postman
+
+## Tutorials
+I find watching Youtube tutorials a good way to learn new techniques and here is some projects I found useful.
+
+-[Live Chat App] Socket.io (https://github.com/AliciaFZhang/Learn-Chatapp)
+-[Todo List] TypeScript (https://github.com/AliciaFZhang/Learn-TypeScript)
+-React Testing (https://github.com/AliciaFZhang/react-testing-starter)
