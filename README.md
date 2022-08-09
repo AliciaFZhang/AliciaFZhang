@@ -22,6 +22,6 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
 ## Tutorials
 I find watching Youtube tutorials a good way to learn new techniques and here is some projects I found useful.
 
--[Live Chat App] Socket.io (https://github.com/AliciaFZhang/Learn-Chatapp)
--[Todo List] TypeScript (https://github.com/AliciaFZhang/Learn-TypeScript)
+-[Live Chat App][(https://github.com/AliciaFZhang/Learn-Chatapp) ](https://github.com/AliciaFZhang/Learn-TypeScript.git)Socket.io 
+-[Todo List](https://github.com/AliciaFZhang/Learn-TypeScript) TypeScript 
 -React Testing (https://github.com/AliciaFZhang/react-testing-starter)
