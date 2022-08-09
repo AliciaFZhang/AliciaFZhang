@@ -20,7 +20,7 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
 - Developer Tools: Vim | Git | Npm | Webpack | Babel | Nodemon | Postman
 
 ## Tutorials
-I find watching Youtube tutorials a good way to learn new techniques and here is some projects I found useful.
+I find watching Youtube tutorials a good way to learn new techniques and here are some projects I found useful.
 
 - [Live Chat App](https://github.com/AliciaFZhang/Learn-Chatapp) Socket.io
 - [Todo List](https://github.com/AliciaFZhang/Learn-TypeScript) TypeScript 
