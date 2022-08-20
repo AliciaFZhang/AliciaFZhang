@@ -19,9 +19,10 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
 - Testing/Deployment: Jest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
 - Developer Tools: Vim | Git | Npm | Webpack | Babel | Nodemon | Postman
 
-## Tutorials
+## Tutorials Recommendations
 I find watching Youtube tutorials a good way to learn new techniques and here are some projects I found useful.
 
 - [Live Chat App](https://github.com/AliciaFZhang/Learn-Chatapp) Socket.io
 - [Todo List](https://github.com/AliciaFZhang/Learn-TypeScript) TypeScript 
-- [React Testing](https://github.com/AliciaFZhang/react-testing-starter)
+- [React Testing](https://github.com/AliciaFZhang/react-testing-starter) React-testing-library
+
