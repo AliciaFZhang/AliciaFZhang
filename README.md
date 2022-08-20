@@ -25,5 +25,5 @@ I find watching Youtube tutorials a good way to learn new techniques and here ar
 - [Live Chat App](https://github.com/AliciaFZhang/Learn-Chatapp) Socket.io
 - [Todo List](https://github.com/AliciaFZhang/Learn-TypeScript) TypeScript 
 - [React Testing](https://github.com/AliciaFZhang/react-testing-starter) React-testing-library
-- [Responsive Restaurant Website] Next.js
+- [Responsive Restaurant Website](https://github.com/AliciaFZhang/Learn-NextJS/tree/main) Next.js
 
