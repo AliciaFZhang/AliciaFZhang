@@ -13,18 +13,21 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciafanzhang/) 
 
 ## Portfolio Projects
-- [MacroMacro E-commerce](https://github.com/MacroMacro/frontend-capstone-wolverines) (Front End)
+- [MacroMacro E-commerce](https://github.com/MacroMacro/frontend-capstone-wolverines) (Front End) JavaScript|React|Styled Components|NodeJS|Express
   
-  Built the navigation bar, Product overview, and footer sections of an E-commerce website
-- [Atelier Systems Design](https://github.com/AliciaFZhang/SDC-QA) (Back End)
+  Built the navigation bar, Product overview, and footer sections of an E-commerce website 
+- [Atelier Systems Design](https://github.com/AliciaFZhang/SDC-QA) (Back End) JavaScript|NodeJS|PostgreSQL|AWS|Nginx 
   
   Built a RESTful API for Q&A sections of an E-commerce website with over 1M products
-- [BetterEats](https://github.com/Better-Eats/Better-Eats) (Full Stack)
+- [BetterEats](https://github.com/Better-Eats/Better-Eats) (Full Stack) JavaScript|React|React-router-dom|Firebase|NodeJS|Express|MERN
   
   Nutrition intake tracker with historical profile stats and nearby restaurants and grocery stores recommendations
-- [TocToc](https://github.com/Awesone2/toctoc) (Full Stack)
+- [TocToc](https://github.com/Awesone2/toctoc) (Full Stack) TypeScript|NextJS|Sanity|Tailwind
   
   A video-sharing platform that allows users to browse, upload, comment, and like posted videos.
+- [AppTrack](https://github.com/AliciaFZhang/ApplicationTracker) (Full Stack) TypeScript|React|Python|Flask|Material-UI
+
+  Application tracker with retrieve, add, edit, and delete functions
 
 ## Technical Skills
 - Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | TypeScript | HTML5 | CSS | JQuery | MUI 
