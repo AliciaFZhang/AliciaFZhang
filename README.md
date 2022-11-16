@@ -13,6 +13,9 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliciafanzhang/) 
 
 ## Portfolio Projects
+- [Modern Bank Website](https://github.com/AliciaFZhang/bank_modern_app) (Front End) JavaScript | React | Tailwind CSS
+  
+  Built a fully responsive website based on Figma design [Preview](https://modernbankweb.fanseelife.in/)
 - [MacroMacro E-commerce](https://github.com/MacroMacro/frontend-capstone-wolverines) (Front End) JavaScript | React | Styled Components | NodeJS | Express
   
   Built the navigation bar, Product overview, and footer sections of an E-commerce website 
