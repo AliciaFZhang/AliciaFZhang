@@ -33,9 +33,9 @@ This is Fan Zhang, a fullstack software engineer who's passionate about building
   Application tracker with retrieve, add, edit, and delete functions
 
 ## Technical Skills
-- Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | TypeScript | HTML5 | CSS | JQuery | MUI 
-- Back End: Node.js | Express | Axios | MongoDB | PostgreSQL | MySQL | RESTful API Development
-- Testing/Deployment: Jest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX
+- Front End: JavaScript (ES5 and ES6) | React | React-Router-dom | TypeScript | HTML5 | CSS | JQuery | MUI | Tailwind CSS
+- Back End: Node.js | Express | Axios | Flask (Python) | MongoDB | PostgreSQL | MySQL | RESTful API Development
+- Testing/Deployment: Jest | Mocha | Chai | AWS: EC2 | Loader.io | K6 | NGINX | Docker
 - Developer Tools: Vim | Git | Npm | Webpack | Babel | Nodemon | Postman
 
 ## Tutorials Recommendations
